@@ -4,7 +4,9 @@ import paquete3.PrestamoAutomovil;
 import paquete4.PrestamoEducativo;
 /**
  *
- * @author reroes
+ * @authores
+ *  Angel Pardo 
+ *  Gerald Jaramillo
  */
 public class Ejecutor {
     public static void main(String[] args) {
